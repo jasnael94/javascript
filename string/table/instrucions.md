@@ -17,9 +17,4 @@ Here, `label here` and `value here` should be replaced with the values of the `l
 
 Make sure to check the code in `index.js` to see how this function is being used. (The DOM code might not make complete sense just yet — that’s normal, we haven’t covered everything.)
 
-👉 Don’t forget to check the final result in the **BROWSER** tab!
-
 ---
-
-Souhaites-tu aussi une version en français ?
-

@@ -1,5 +1,9 @@
 
-// @param {number} number
+/**
+ * 
+ * @param {number} number 
+ * @returns 
+ */
 
 
 export function getDivisionRemainderBy2(number) {

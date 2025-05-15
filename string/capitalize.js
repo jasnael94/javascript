@@ -7,7 +7,9 @@
 // Look at the sample usage to understand what capitalization means, then look at the hints if it's still not clear.
 // 
 
-// @param {string} word
+/** 
+ * @param {string} word 
+ * */
  
 function capitalize(word) {
     return word[0].toUpperCase()+word.substring(1).toLowerCase()

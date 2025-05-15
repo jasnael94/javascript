@@ -7,6 +7,11 @@
 // quite fun!
 // It's a good idea to copy and paste the string instead of re-writing it to avoid small typos.
 
+/**
+ *
+ *
+ * @return {string} 
+ */
 function getMultilineString() {
     return `I am learning JavaScript  
     and I found it to be  

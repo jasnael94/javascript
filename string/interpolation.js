@@ -20,10 +20,13 @@ function sayHello(name) {
 
 // Complete the function getFullName such that it returns the full name of the person using interpolation.
 
-// /**
-//  * @param {string} firstName
-//  * @param {string} lastName
-//  */
+
+
+/**
+ * @param {string} firstName
+ * @param {string} lastName
+ * @return {string} 
+ */
 function getFullName(firstName, lastName) {
     return `${firstName} ${lastName}`
     }

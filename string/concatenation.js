@@ -22,7 +22,8 @@ console.log(concatInitials("S", "B")); // "SB"
 // Complete the function getDescription such that it returns the first 10 characters of the text parameter it receives followed by an ellipsis.
 //  An ellipsis is the dot character written 3 times: ...
 
-//@param {string} text
+/** 
+ * @param {string} text */
 
 function getDescription(text){
    return  text.substring(0,10)+"..."  

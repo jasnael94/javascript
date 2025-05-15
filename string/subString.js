@@ -32,7 +32,8 @@ function getLastCharacter(name) {
 
 // Complete the function skipFirstCharacter such that it returns all the characters except the first one from the text parameter it receives.
 
-//  * @param {string} text
+/** 
+ * @param {string} text */
 
 function skipFirstCharacter(text) {
     return text.substring(1)

@@ -5,9 +5,11 @@
 // /**
 
 
-//  * @param {number} number
-//  */
 
+/**
+ * @param {number} number
+ * @return {string} 
+ */
 
 function convertNumberToString(number) {
     return number.toString()

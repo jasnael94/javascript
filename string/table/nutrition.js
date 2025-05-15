@@ -1,6 +1,7 @@
-
-// @param {string} label
-// @param {string} value
+/** 
+* @param {string} label
+* @param {string} value
+*/
 
 export function renderTableRow(label, value) {
     return `

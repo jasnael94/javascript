@@ -1,7 +1,8 @@
 
 
-//  * @param {string} age 
-//  */
+/**
+ * @param {string} age 
+ */
 
 
 export function getNextAge(age) {

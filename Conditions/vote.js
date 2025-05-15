@@ -2,7 +2,9 @@
 
 // Implement the function canVote such that it returns true whenever the age is 18 or above and false in all other scenarios.
 
-// @param {number} age
+/**        
+ * @param {number} age
+ */
 
 function canVote(age) {
     if(age>18){

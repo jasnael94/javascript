@@ -3,7 +3,12 @@
 // Complete the function getCharCount such that it returns the number of characters in the str parameter that it receives.
 
 
-
+/**
+ *
+ *
+ * @param {string} str
+ * @return {*} 
+ */
 function getCharCount(str) {
     return str.length
     }
